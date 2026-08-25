@@ -132,13 +132,13 @@ Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiência
 
 <br>
 
-<a href="https://linkedin.com/in/adeel-faheem">
+<a href="https://www.linkedin.com/in/gustavo-costa-a69120247">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:adeelfaheem20@gmail.com">
+<a href="mailto:buenocode6@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/Adeel-x">
+<a href="https://github.com/buenozss">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -147,8 +147,5 @@ Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiência
 
 <sub><i>Building in public, one commit at a time.</i></sub>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Adeel-x&label=Profile%20Views&color=ffffff&style=flat" alt="Profile Views" />
 
 </div>
