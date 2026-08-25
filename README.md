@@ -81,10 +81,6 @@ Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiência
 <!-- ============================================================ -->
 
 
-<a href="https://github.com/Adeel-x/Token-Efficient-Routing-Agent">
-  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-</a>
-
 
 
 <!-- ============================================================ -->
@@ -100,22 +96,6 @@ Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiência
 
 <div align="center">
 
-## GitHub Stats
-
-<br>
-
-<img height="165" src="https://github-readme-stats-seven-sand-38.vercel.app/api?username=Adeel-x&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Adeel's GitHub Stats" />
-<img height="165" src="https://github-readme-stats-seven-sand-38.vercel.app/api/top-langs/?username=Adeel-x&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
-
-<br>
-<br>
-
-<img src="https://github-readme-streak-stats-one-zeta-18.vercel.app/?user=Adeel-x&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
 ---
 
 
@@ -129,7 +109,7 @@ Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiência
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel-x&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buenozss&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br>
 <br>
