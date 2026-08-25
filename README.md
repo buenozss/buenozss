@@ -21,9 +21,9 @@
 
 <div align="center">
 
-## Know About Me
+## Sobre Mim
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I+Am+Adeel!;I+build+AI+that+does+the+boring+work;Agents+%E2%80%A2+Automation+%E2%80%A2+Backend" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gustavo!;I+build+modern+and+intuitive+interfaces;Frontend+%E2%80%A2+UI%2FUX+%E2%80%A2+Web+Development" alt="What I do" />
 
 </div>
 
@@ -55,7 +55,7 @@ Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiência
 **Languages & Frameworks**
 
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
 <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 
