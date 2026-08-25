@@ -29,9 +29,12 @@
 
 <br>
 
-I'm an AI student who got into this field for a very honest reason. I wanted to build things that handle the boring work so I don't have to. That slowly turned into a real obsession with AI agents, automation, and the backend systems that quietly hold everything together.
-Most of what I build starts the same way: I get mildly annoyed at doing something by hand, and a few hours later there's a Python script, an agent, or an LLM pipeline doing it better than I would have. I care less about the hype and more about tools that actually work when you run them.
-Still early in the journey, still breaking things on purpose to understand them.
+Sou um estudante de desenvolvimento que entrou nessa área por uma vontade muito simples: transformar ideias em coisas que realmente funcionam. O que começou como curiosidade por tecnologia acabou se tornando uma paixão por desenvolvimento Frontend, interfaces e pela experiência que existe por trás de cada produto digital.
+
+A maioria das coisas que construo começa da mesma forma: vejo algo que poderia ser melhor, mais bonito ou mais fácil de usar e começo a pensar em como eu faria. Algumas horas depois, existe uma nova interface, um projeto ou uma solução sendo construída. Gosto de entender não apenas como algo funciona por trás do código, mas também como as pessoas interagem com aquilo.
+
+Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiências digitais modernas, funcionais e intuitivas. Ainda estou no começo da jornada, aprendendo, testando, quebrando coisas de propósito e reconstruindo para entender melhor como tudo funciona.
+
 
 <br>
 
@@ -51,8 +54,10 @@ Still early in the journey, still breaking things on purpose to understand them.
 
 **Languages & Frameworks**
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 
 <br>
 
@@ -62,6 +67,7 @@ Still early in the journey, still breaking things on purpose to understand them.
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 </div>
 
@@ -74,43 +80,11 @@ Still early in the journey, still breaking things on purpose to understand them.
 <!--                         PROJECTS                            -->
 <!-- ============================================================ -->
 
-<div align="center">
-
-## Projects
-
-</div>
-
-<br>
-
-### Token Efficient Routing Agent
-
-> An AI agent system that routes tasks intelligently to cut unnecessary model calls — keeping cost and latency down without sacrificing output quality.
-
-**Focus:** AI agent workflows · LLM optimization · prompt engineering · Python
 
 <a href="https://github.com/Adeel-x/Token-Efficient-Routing-Agent">
   <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
 </a>
 
-<br><br>
-
-### E-commerce Customer Support Automation
-
-> An automated n8n triage system using Groq AI (Llama 3.3) to classify support emails, draft replies, log analytics to Google Sheets, and flag urgent escalations.
-
-**Focus:** n8n · AI Automation · Groq API · Customer Support · Gmail & Sheets API
-
-<a href="https://github.com/Adeel-x/Ecommerce-Customer-Support-Automation">
-  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-</a>
-
-<br><br>
-
-<sub>More projects are on the way — check my pinned repositories.</sub>
-
-<br>
-
----
 
 
 <!-- ============================================================ -->
