@@ -104,7 +104,6 @@ Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiência
 
 <div align="center">
 
-## Contribution Graph
 
 <br>
 <br>
