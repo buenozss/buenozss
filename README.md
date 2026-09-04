@@ -109,7 +109,7 @@ Meu foco está em desenvolvimento Frontend, UI/UX e na criação de experiência
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/Adeel-x/Adeel-x/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Adeel-x/Adeel-x/gh-pages/github-contribution-grid-snake-green.svg" width="100%" alt="Snake Animation" />
 
 </div>
 
